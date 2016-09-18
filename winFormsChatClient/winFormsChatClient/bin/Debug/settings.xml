@@ -1,0 +1,9 @@
+<chatClientSettings>
+	<proxySetting>
+		<proxySetting settingName="enableProxy" settingValue="true"/>
+		<proxySetting settingName="proxySocket" settingValue="x"/>
+		<proxySetting settingName="proxyAuth" settingValue="true"/>
+		<proxySetting settingName="proxyUser" settingValue="droephil"/>
+		<proxySetting settingName="proxyPass" settingValue="dedede"/>
+	</proxySetting>
+</chatClientSettings>
